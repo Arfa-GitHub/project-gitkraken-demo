@@ -1,2 +1,2 @@
-This is from conflict branch.
+این متن از شاخه feature/file2 اضافه شده است.
 
