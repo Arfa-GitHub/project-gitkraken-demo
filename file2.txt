@@ -1,1 +1,2 @@
-این متن از شاخه feature/file2 اضافه شده است.
+این متThis is from feature branch.
+
